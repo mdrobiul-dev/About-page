@@ -27,12 +27,7 @@ This project highlights basic frontend development skills such as layout design,
 
 ## 🛠️ Technologies Used
 - **HTML5**
-- **CSS3**
-
----
-
-## 📸 Preview
-*(Insert a screenshot of your About Page here once available)*  
+- **CSS3** 
 
 ---
 
